@@ -1,0 +1,18 @@
+table.tb{
+    width: 450px;
+    border-collapse: collapse;
+}
+.tb th, .tb td{
+    border: dotted 1px red;
+    padding: 10px;
+    bord
+}
+.tb thead{
+    background-color: black;
+    color: white;
+    border:solid 2px red;
+}
+.tb tbody{
+  
+    border:solid 2px red;
+}
